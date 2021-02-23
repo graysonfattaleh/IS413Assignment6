@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  is413assignment5real:
+    image: ${DOCKER_REGISTRY-}is413assignment5real
+    build:
+      context: .
+      dockerfile: IS413Assignment5Real/Dockerfile

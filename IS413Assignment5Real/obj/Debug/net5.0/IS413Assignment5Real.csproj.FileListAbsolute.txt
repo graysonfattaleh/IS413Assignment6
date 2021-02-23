@@ -1,0 +1,217 @@
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/appsettings.json
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/IS413Assignment5Real.exe
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/IS413Assignment5Real.deps.json
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/IS413Assignment5Real.runtimeconfig.json
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/IS413Assignment5Real.runtimeconfig.dev.json
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/IS413Assignment5Real.dll
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/ref/IS413Assignment5Real.dll
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/IS413Assignment5Real.pdb
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/IS413Assignment5Real.Views.dll
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/IS413Assignment5Real.Views.pdb
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.csprojAssemblyReference.cache
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.AssemblyInfoInputs.cache
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.AssemblyInfo.cs
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.csproj.CoreCompileInputs.cache
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.RazorAssemblyInfo.cache
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.RazorAssemblyInfo.cs
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/staticwebassets/IS413Assignment5Real.StaticWebAssets.Manifest.cache
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/staticwebassets/IS413Assignment5Real.StaticWebAssets.xml
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/scopedcss/bundle/IS413Assignment5Real.styles.css
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.TagHelpers.input.cache
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.TagHelpers.output.cache
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.RazorCoreGenerate.cache
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.RazorTargetAssemblyInfo.cache
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.RazorTargetAssemblyInfo.cs
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.Views.pdb
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.dll
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/ref/IS413Assignment5Real.dll
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.pdb
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.genruntimeconfig.cache
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.csproj.CopyComplete
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/Razor/Views/Home/BookList.cshtml.g.cs
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Humanizer.dll
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/System.Runtime.Caching.dll
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/graysonfattaleh/source/repos/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/appsettings.Development.json
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/appsettings.json
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/IS413Assignment5Real.deps.json
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/IS413Assignment5Real.runtimeconfig.json
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/IS413Assignment5Real.runtimeconfig.dev.json
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/IS413Assignment5Real.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/ref/IS413Assignment5Real.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/IS413Assignment5Real.pdb
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/IS413Assignment5Real.Views.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/IS413Assignment5Real.Views.pdb
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Humanizer.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.csprojAssemblyReference.cache
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.GeneratedMSBuildEditorConfig.editorconfig
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.AssemblyInfoInputs.cache
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.AssemblyInfo.cs
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.csproj.CoreCompileInputs.cache
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.MvcApplicationPartsAssemblyInfo.cache
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.RazorAssemblyInfo.cache
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.RazorAssemblyInfo.cs
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/staticwebassets/IS413Assignment5Real.StaticWebAssets.Manifest.cache
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/staticwebassets/IS413Assignment5Real.StaticWebAssets.xml
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/scopedcss/bundle/IS413Assignment5Real.styles.css
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.TagHelpers.input.cache
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.TagHelpers.output.cache
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.RazorCoreGenerate.cache
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/Razor/Views/Home/BookList.cshtml.g.cs
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.RazorTargetAssemblyInfo.cache
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.RazorTargetAssemblyInfo.cs
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.Views.pdb
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.csproj.CopyComplete
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/ref/IS413Assignment5Real.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.pdb
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.genruntimeconfig.cache
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/appsettings.Development.json
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/appsettings.json
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/IS413Assignment5Real.deps.json
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/IS413Assignment5Real.runtimeconfig.json
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/IS413Assignment5Real.runtimeconfig.dev.json
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/IS413Assignment5Real.dll
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/ref/IS413Assignment5Real.dll
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/IS413Assignment5Real.pdb
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/IS413Assignment5Real.Views.dll
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/IS413Assignment5Real.Views.pdb
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Humanizer.dll
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.csprojAssemblyReference.cache
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.GeneratedMSBuildEditorConfig.editorconfig
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.AssemblyInfoInputs.cache
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.AssemblyInfo.cs
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.csproj.CoreCompileInputs.cache
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.MvcApplicationPartsAssemblyInfo.cache
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.RazorAssemblyInfo.cache
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.RazorAssemblyInfo.cs
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/staticwebassets/IS413Assignment5Real.StaticWebAssets.Manifest.cache
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/staticwebassets/IS413Assignment5Real.StaticWebAssets.xml
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/scopedcss/bundle/IS413Assignment5Real.styles.css
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.TagHelpers.input.cache
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.TagHelpers.output.cache
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.RazorCoreGenerate.cache
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/Razor/Views/Home/BookList.cshtml.g.cs
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.RazorTargetAssemblyInfo.cache
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.RazorTargetAssemblyInfo.cs
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.Views.pdb
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.csproj.CopyComplete
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.dll
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/ref/IS413Assignment5Real.dll
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.pdb
+/Users/graysonfattaleh/Desktop/Junior Core Comprehensive/IS 413/IS413Assignment5Real/IS413Assignment5Real/obj/Debug/net5.0/IS413Assignment5Real.genruntimeconfig.cache

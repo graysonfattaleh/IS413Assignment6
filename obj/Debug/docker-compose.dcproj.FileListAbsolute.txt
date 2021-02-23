@@ -1,0 +1,16 @@
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/bin/Debug/IS413Assignment5Real.Views.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/bin/Debug/IS413Assignment5Real.Views.pdb
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/bin/Debug/appsettings.Development.json
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/bin/Debug/appsettings.json
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/bin/Debug/IS413Assignment5Real.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/bin/Debug/Microsoft.EntityFrameworkCore.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/bin/Debug/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/bin/Debug/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/bin/Debug/System.Diagnostics.DiagnosticSource.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/bin/Debug/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/bin/Debug/Microsoft.Extensions.DependencyInjection.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/bin/Debug/Microsoft.Data.SqlClient.dll
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/bin/Debug/IS413Assignment5Real.pdb
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/obj/Debug/docker-compose.dcprojAssemblyReference.cache
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/obj/Debug/docker-compose.dcproj.CoreCompileInputs.cache
+/Users/graysonfattaleh/Desktop/IS413Assignment5Real/obj/Debug/docker-compose.dcproj.CopyComplete

@@ -1,0 +1,65 @@
+﻿@{ ViewData["Title"] = "Home Page"; }
+
+@model IS413Assignment5Real.Models.ViewModels.BookListViewModel
+<!-- NEW BOOT STRAP COMMANDS I USED-->
+<!--1. Table and table-dark provoide styking to my table-->
+<!--2. list-group and list-group-item classes provide styling for my list-->
+<!--3. I used the col and row spacing to space out my page agian-->
+<h1 class="text-center" style="font-family:Arial, Helvetica, sans-serif;">Hover over your favorite books to see the details!</h1>
+<div class="container" style="margin-top:15px;">
+    <div class="row justify-content-between">
+        <div class="col-5">
+            <div class="table_div">
+                <table id="booktable" class="table table-dark" style="width:48%;">
+                    <thead class="text-center">
+                        <tr class="text-center">
+                            <th>Title</th>
+                            <th>Category</th>
+                            <th>Author</th>
+                            <th>Price</th>
+                        </tr>
+                    </thead>
+                    <tbody class="text-center">
+                        <!--makes a row for each book entry-->
+                        @foreach (Book book in Model.Books)
+                        {
+
+
+            <tr class="text-center tblrow" id=@book.BookId>
+                <td>@book.Title</td>
+                <td>@book.Classification</td>
+                <td>@book.AuthorLast</td>
+                <td>@book.Price</td>
+            </tr>
+}
+                    </tbody>
+                </table>
+                <h3 id="test"></h3>
+            </div>
+            <div page-model="@Model.PagingInfo" page-action="Index"></div>
+        </div>
+        <div class="col-5">
+            @foreach (Book book in Model.Books)
+            {
+                string book_id = "details" + book.BookId.ToString();
+
+    <div id=@book_id style="display:none">
+
+        <ul class="list-group">
+            <li class="list-group-item list-group-item-info">Book ID: @book.BookId</li>
+            <li class="list-group-item list-group-item-info">Author Full Name: @book.AuthorFirst @book.AuthorMiddle @book.AuthorLast </li>
+            <li class="list-group-item list-group-item-info">Classification: @book.Classification</li>
+            <li class="list-group-item list-group-item-info">Category: @book.Category</li>
+            <li class="list-group-item list-group-item-info">ISBN: @book.ISBN</li>
+            <li class="list-group-item list-group-item-info">Pages: @book.Pages</li>
+        </ul>
+    </div>}
+
+        </div>
+    </div>
+</div>
+<input type="hidden" id="current_page" value="@Model.PagingInfo.CurrentPage" />
+<div asp-validation-summary="All"></div>
+
+
+

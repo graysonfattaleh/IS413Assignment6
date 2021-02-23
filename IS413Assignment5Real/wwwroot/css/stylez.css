@@ -1,0 +1,48 @@
+﻿table{
+    border: 2px solid black;
+    width: 100%;
+}
+
+th {
+    border: 2px solid black;
+    background-color: lightcoral;
+}
+
+td {
+    border: 1px solid none;
+}
+
+tr:hover {
+    background-color: rgba(138, 207, 244, 0.64);
+}
+
+.table_div{
+    width: 80vw;
+    min-width:600px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.text-center{
+    text-align:center;
+}
+
+.ikon{
+    width:25px;
+}
+
+.ikon:hover{
+    background-color:lightcoral;
+    width:35px;
+    color:lightcoral;
+}
+
+.navvy{
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+}
+
+.ank:hover{
+    color:lavender;
+}
