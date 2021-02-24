@@ -1,6 +1,6 @@
 ﻿table{
     border: 2px solid black;
-    width: 100%;
+   width:100%;
 }
 
 th {
@@ -45,4 +45,9 @@ tr:hover {
 
 .ank:hover{
     color:lavender;
+}
+
+.minnyguy{
+    min-width: 350px;
+    display:block;
 }

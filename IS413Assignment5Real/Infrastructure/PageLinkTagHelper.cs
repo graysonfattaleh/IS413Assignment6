@@ -28,6 +28,12 @@ namespace IS413Assignment5Real.Models
 
         public PagingInfo PageModel { get; set; }
         public string PageAction { get; set; }
+        // hypothetical variable stuff
+        public bool PageClassesEnabled { get; set; } = false;
+        public string PageClass { get; set; }
+        public string PageClassNormal { get; set; }
+        public string PageClassSelected { get; set; }
+
         //Overriding
         public override void Process(TagHelperContext context, TagHelperOutput output)
         {
@@ -40,10 +46,17 @@ namespace IS413Assignment5Real.Models
             {
                 // make new a tag
                 TagBuilder tag = new TagBuilder("a");
-                // put page number in href
+                // check and see enabled classes, makes sense I guess
+                if (PageClassesEnabled)
+                {
+                    tag.AddCssClass(PageClass);
+                    tag.AddCssClass(i == PageModel.CurrentPage ? PageClassSelected : PageClassNormal);
+
+                }
+                // put page number in href add specific class for each a tag etc
                 tag.Attributes["href"] = urlHelper.Action(PageAction, new { page = i });
                 tag.InnerHtml.Append(i.ToString());
-                tag.Attributes["class"] = "text-center ank";
+                //tag.Attributes["class"] = "text-center ank";
                 tag.Attributes["id"] = "pagenumber" +i.ToString();
                 result.InnerHtml.AppendHtml(tag).AppendHtml(" ");
             }

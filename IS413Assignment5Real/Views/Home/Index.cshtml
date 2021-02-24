@@ -6,11 +6,10 @@
 <!--2. list-group and list-group-item classes provide styling for my list-->
 <!--3. I used the col and row spacing to space out my page agian-->
 <h1 class="text-center" style="font-family:Arial, Helvetica, sans-serif;">Hover over your favorite books to see the details!</h1>
-<div class="container" style="margin-top:15px;">
+<div class="container" style="margin-top:15px;transform .git -r">
     <div class="row justify-content-between">
-        <div class="col-5">
-            <div class="table_div">
-                <table id="booktable" class="table table-dark" style="width:48%;">
+        <div class="col-7 minnyguy">
+                <table id="booktable" class="table table-dark" >
                     <thead class="text-center">
                         <tr class="text-center">
                             <th>Title</th>
@@ -35,10 +34,12 @@
                     </tbody>
                 </table>
                 <h3 id="test"></h3>
-            </div>
-            <div page-model="@Model.PagingInfo" page-action="Index"></div>
+            
+            <div page-model="@Model.PagingInfo" page-action="Index" page-classes-enabled ="true"
+                 page-class ="btn ank" page-class-normal="btn-outline-dark"
+                 page-class-selected="btn-primary "></div>
         </div>
-        <div class="col-5">
+        <div class="col-5 minnyguy">
             @foreach (Book book in Model.Books)
             {
                 string book_id = "details" + book.BookId.ToString();
@@ -60,6 +61,3 @@
 </div>
 <input type="hidden" id="current_page" value="@Model.PagingInfo.CurrentPage" />
 <div asp-validation-summary="All"></div>
-
-
-
